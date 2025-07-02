@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy B. Alfredo Cruz Hernández / Desarrollador De Software ✨ </h1> 
 
 <p align="left">
-  <a href="https://bach-portafolio.netlify.app/" target="blank"><img align="center" src="" alt="@unsimpledev"  /></a>
+  <a href="https://bach-portafolio.netlify.app/" target="blank"><img align="center" src="" alt="Portafolio"  /></a>
 <a href="https://www.linkedin.com/in/alfredo-cruz-hernandez-0aa89b245/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:alfredocrux50@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
